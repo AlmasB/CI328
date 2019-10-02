@@ -20,8 +20,8 @@
 
 #### Structure
 
-- 2hrs lectures + 1hr tutorial per week
-- Fair bit of programming
+- 3 hours (roughly 50%-50% lecture + tutorial) per week
+- Roughly (50%-50%) game design + programming
 - Interactive (you get to decide the module focus)
 
 ---
@@ -52,13 +52,20 @@
 
 ---
 
+#### Content Focus
+
+- Pragmatic (only important bits)
+- Technology-agnostic
+- Language-agnostic
+
+---
+
 #### Tech
 
 - JavaScript
 - Phaser 3 - JS Game Engine
 - GitHub + git (recommended)
 - IDE of choice (WebStorm, Brackets, Atom, etc)
-- Gitter
 
 ---
 
@@ -69,7 +76,6 @@
 - WebStorm (https://www.jetbrains.com/webstorm/)
 - Brackets (http://brackets.io/)
 - Atom (https://atom.io/)
-- Gitter (https://gitter.im/UoBComputing/CI328_2018)
 
 ---
 
